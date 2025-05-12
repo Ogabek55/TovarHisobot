@@ -13,5 +13,8 @@
   "dependencies": {
     "exceljs": "^4.4.0",
     "node-telegram-bot-api": "^0.66.0"
-  }
+  },
+  "scripts": {
+  "start": "node index.js"
+}
 }
