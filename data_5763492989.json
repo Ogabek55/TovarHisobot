@@ -1,0 +1,401 @@
+[
+  {
+    "category": "Televizor",
+    "name": "Artel",
+    "code": "16849",
+    "model": "A43KF5500",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Premier",
+    "code": "42292",
+    "model": "43PRM3010FSV",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Premier",
+    "code": "17390",
+    "model": "43PRM700S",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Premier",
+    "code": "42194",
+    "model": "43PRM3010USV",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Artel",
+    "code": "38616",
+    "model": "A44NFA900",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Artel",
+    "code": "14002",
+    "model": "UA43H3401",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Samsung",
+    "code": "02985",
+    "model": "UE43BU8000",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Samsung",
+    "code": "10482",
+    "model": "UE43CU8500U",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Samsung",
+    "code": "01476",
+    "model": "UE32T4500AU",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Shivaki",
+    "code": "20384",
+    "model": "S32KH5000",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Shivaki",
+    "code": "15295",
+    "model": "US32H3203",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Premier",
+    "code": "37952",
+    "model": "32PRM3010FSV",
+    "status": "sotilgan"
+  },
+  {
+    "category": "Televizor",
+    "name": "Samsung",
+    "code": "01476",
+    "model": "UE32T4500AU",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Premier",
+    "code": "25453",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Premier",
+    "code": "25453",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Artel",
+    "code": "08836",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Artel",
+    "code": "38615",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Shivaki",
+    "code": "15295",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Premier",
+    "code": "25454",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Artel",
+    "code": "07543",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Artel",
+    "code": "07543",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Artel",
+    "code": "13907",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Samsung",
+    "code": "01476",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Samsung",
+    "code": "01476",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Samsung",
+    "code": "01476",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Shivaki",
+    "code": "38090",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Premier",
+    "code": "25454",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Premier",
+    "code": "37952",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Televizor",
+    "name": "Premier",
+    "code": "25453",
+    "model": "T",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Premier",
+    "code": "28484",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Premier",
+    "code": "33072",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Artel",
+    "code": "13738",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Premier",
+    "code": "31064",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "01773",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "00924",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Samsung",
+    "code": "00176",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Artel",
+    "code": "13738",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Premier",
+    "code": "15289",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Samsung",
+    "code": "16115",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "00924",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "00926",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "09510",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "13311",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "09510",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "00924",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "00926",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "05944",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "13311",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Pechlar",
+    "name": "Itimat",
+    "code": "00927",
+    "model": "P",
+    "status": "aktiv"
+  },
+  {
+    "category": "Plisos",
+    "name": "Samsung",
+    "code": "11806",
+    "model": "Pl",
+    "status": "aktiv"
+  },
+  {
+    "category": "Plisos",
+    "name": "Artel",
+    "code": "10638",
+    "model": "Pl",
+    "status": "aktiv"
+  },
+  {
+    "category": "Plisos",
+    "name": "Avalon",
+    "code": "20051",
+    "model": "Pl",
+    "status": "aktiv"
+  },
+  {
+    "category": "Plisos",
+    "name": "Artel",
+    "code": "17597",
+    "model": "Pl",
+    "status": "aktiv"
+  },
+  {
+    "category": "Plisos",
+    "name": "Samsung",
+    "code": "28597",
+    "model": "Pl",
+    "status": "aktiv"
+  },
+  {
+    "category": "Plisos",
+    "name": "Samsung",
+    "code": "41227",
+    "model": "Pl",
+    "status": "aktiv"
+  },
+  {
+    "category": "Plisos",
+    "name": "Samsung",
+    "code": "41227",
+    "model": "Pl",
+    "status": "aktiv"
+  },
+  {
+    "category": "Plisos",
+    "name": "Samsung",
+    "code": "14741",
+    "model": "Pl",
+    "status": "aktiv"
+  }
+]
