@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -12,9 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "exceljs": "^4.4.0",
-    "node-telegram-bot-api": "^0.66.0"
-  },
-  "scripts": {
-  "start": "node index.js"
-}
+    "node-telegram-bot-api": "^0.66.0",
+    "react-scripts": "^5.0.1"
+  }
 }

@@ -397,5 +397,12 @@
     "code": "14741",
     "model": "Pl",
     "status": "aktiv"
+  },
+  {
+    "category": "Telefon",
+    "name": "redmi",
+    "code": "87956",
+    "model": "Redmi",
+    "status": "aktiv"
   }
 ]
